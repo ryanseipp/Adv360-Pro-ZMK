@@ -45,7 +45,7 @@
         &kp F1 &kp F2    &kp F3   &kp F4   &kp F5   &kp F6   &tog 1                                                       &mo 3  &kp F7 &kp F8    &kp F9    &kp F10   &kp F11   &kp F12
         &trans &kp AMPS  &kp PIPE &kp LBRC &kp RBRC &kp AT   &none                                                        &none  &trans &trans    &trans    &trans    &kp COLON &kp PIPE
         &trans &kp CARET &kp DLLR &kp LPAR &kp RPAR &kp EXCL &none         &trans &trans             &trans &trans        &none  &trans &kp MINUS &kp EQUAL &kp ASTRK &kp TILDE &kp DQT
-        &trans &kp PRCNT &kp HASH &kp LBKT &kp RBKT &trans   &none  &none  &trans &none &none &trans &none  &none         &trans &trans &trans    &kp LT    &kp GT    &kp QMARK &trans
+        &trans &kp PRCNT &kp HASH &kp LBKT &kp RBKT &trans          &none  &trans &none &none &trans &none  &none  &none         &trans &trans    &kp LT    &kp GT    &kp QMARK &trans
         &trans &trans    &trans   &trans   &trans                   &trans &trans &trans             &trans &trans &trans               &trans    &trans    &trans    &trans    &trans
       >;
     };
